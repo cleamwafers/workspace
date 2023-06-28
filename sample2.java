@@ -1,4 +1,4 @@
-public class 算術演算 {
+public class sample2 {
     // 加算 ... 足し算
     int addition = 3 + 3; // 6
     // 減算 ... 引き算
